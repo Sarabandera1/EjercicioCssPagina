@@ -1,0 +1,14 @@
+.box{
+    max-width: 400px;
+    max-height: 400px;
+    width: 600px;
+    height: 400px;
+    background-color: blueviolet;
+    margin: 30px auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    }
+.container
+
